@@ -1,0 +1,9 @@
+{
+  "target": "synthetic arbitrary teaching score (NOT INR)",
+  "n_train": 1920,
+  "n_test": 480,
+  "test_MAE": 1.7553590061041078,
+  "test_RMSE": 2.210273384326056,
+  "holdout_absolute_error_q90": 3.7901536507019657,
+  "caution": "One synthetic split; q90 is not a medically valid prediction interval or external calibration."
+}
